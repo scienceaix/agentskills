@@ -427,6 +427,8 @@
 
 - [Claude Skills Explained — Lenny's Newsletter](https://www.lennysnewsletter.com/p/claude-skills-explained) — Claire Vo's product-manager perspective on Skills: building from scratch, practical uses for PRDs, changelogs, and follow-up emails. *(Oct 22, 2025)*
 
+- [Prompting Is Not Enough: Code-Enforced Research Workflows for AI Agents](https://dev.to/ericyoung183/prompting-is-not-enough-code-enforced-research-workflows-for-ai-agents-524d) — Case study on Alpha Insights, showing how state-machine stages, validators, evidence grading, and quality gates can make Skill-based research workflows more reliable.
+
 - [awesome-llm-skills](https://github.com/Prat011/awesome-llm-skills) — Community curated list of LLM and AI Agent Skills, resources, and tools for customizing AI workflows across Claude Code, Codex, Gemini CLI, and other platforms.
 
 ### MCP Tutorials
