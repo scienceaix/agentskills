@@ -153,6 +153,8 @@
 
 - [microsoft/mcp](https://github.com/microsoft/mcp) — Catalog of official Microsoft MCP server implementations including Azure services, DevOps, M365 Agents Toolkit, Fabric, and Sentinel.
 
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) — Hosted MCP server providing on-chain trust scoring and signed receipts for Solana AI agent wallets. Exposes `score_agent`, `preflight_check` (free), and `get_trust_receipt` (paid, HTTP 402) tools. Zero-install: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
+
 ---
 
 ## Claude Tool Use & Computer Use
