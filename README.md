@@ -429,6 +429,8 @@
 
 - [awesome-llm-skills](https://github.com/Prat011/awesome-llm-skills) — Community curated list of LLM and AI Agent Skills, resources, and tools for customizing AI workflows across Claude Code, Codex, Gemini CLI, and other platforms.
 
+- [Xquik x-twitter-scraper](https://github.com/Xquik-dev/x-twitter-scraper) - Installable X and Twitter social data skill with SKILL.md, REST API and MCP setup references, SDK package, webhook workflows, and confirmation-gated write guidance.
+
 ### MCP Tutorials
 
 - [Build an MCP Server — Official Guide](https://modelcontextprotocol.io/docs/develop/build-server) — Official quickstart tutorial: building a weather server with `get_alerts` and `get_forecast` tools, connecting to Claude for Desktop.
@@ -530,4 +532,3 @@ Contributions welcome! Please read the contribution guidelines first. All submit
       url={https://arxiv.org/abs/2602.12430}, 
 }
 ```
-
