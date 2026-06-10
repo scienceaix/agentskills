@@ -428,6 +428,7 @@
 - [Claude Skills Explained — Lenny's Newsletter](https://www.lennysnewsletter.com/p/claude-skills-explained) — Claire Vo's product-manager perspective on Skills: building from scratch, practical uses for PRDs, changelogs, and follow-up emails. *(Oct 22, 2025)*
 
 - [awesome-llm-skills](https://github.com/Prat011/awesome-llm-skills) — Community curated list of LLM and AI Agent Skills, resources, and tools for customizing AI workflows across Claude Code, Codex, Gemini CLI, and other platforms.
+- [RunAPI CLI Skill](https://github.com/runapi-ai/cli-skill) — Agent skill for running AI image, video, music/audio, and LLM model jobs through RunAPI.
 
 ### MCP Tutorials
 
