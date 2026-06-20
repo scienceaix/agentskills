@@ -35,6 +35,7 @@
     - [Agent Frameworks](#agent-frameworks)
     - [Browser Automation \& Computer Use Agents](#browser-automation--computer-use-agents)
     - [Coding Agents](#coding-agents)
+    - [Agent Observability \& Workflow Tools](#agent-observability--workflow-tools)
   - [Benchmarks \& Evaluation](#benchmarks--evaluation)
     - [Agent Benchmarks](#agent-benchmarks)
     - [Tool Use \& Function Calling Benchmarks](#tool-use--function-calling-benchmarks)
@@ -330,6 +331,12 @@
 | [Aider](https://github.com/Aider-AI/aider) | AI pair programming in terminal. Maps entire codebase for context-aware multi-file edits. Works with Claude, GPT, DeepSeek. | ⭐ 40k+ |
 | [SWE-agent](https://github.com/SWE-agent/SWE-agent) | Automatically fixes GitHub issues using your LM of choice. SWE-agent 1.0 + Claude 3.7 achieved SoTA on SWE-Bench. | ⭐ 10k+ |
 | [mini-swe-agent](https://github.com/SWE-agent/mini-swe-agent) | 100-line AI agent scoring >74% on SWE-bench verified. Radically simple — no tools other than bash. | ⭐ 2k+ |
+
+### Agent Observability & Workflow Tools
+
+| Project                             | Description                                                                                                          | Stars |
+| ----------------------------------- | -------------------------------------------------------------------------------------------------------------------- | ----- |
+| [ax](https://github.com/Necmttn/ax) | Local-first observability and memory graph for AI coding-agent sessions, tools, skills, costs, and workflow recall.  | ⭐ 33  |
 
 ---
 
