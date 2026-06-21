@@ -427,6 +427,8 @@
 
 - [Claude Skills Explained — Lenny's Newsletter](https://www.lennysnewsletter.com/p/claude-skills-explained) — Claire Vo's product-manager perspective on Skills: building from scratch, practical uses for PRDs, changelogs, and follow-up emails. *(Oct 22, 2025)*
 
+- [agent-skill-groups](https://github.com/go165/agent-skill-groups) — Cross-runtime CLI and documentation for managing large local Agent Skills libraries with scenario profiles for Codex, Claude Code, OpenCode, and generic SKILL.md layouts.
+
 - [awesome-llm-skills](https://github.com/Prat011/awesome-llm-skills) — Community curated list of LLM and AI Agent Skills, resources, and tools for customizing AI workflows across Claude Code, Codex, Gemini CLI, and other platforms.
 
 ### MCP Tutorials
