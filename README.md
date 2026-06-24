@@ -80,6 +80,7 @@
 ### GitHub Repositories
 
 - [anthropics/skills](https://github.com/anthropics/skills) — Public repository for Agent Skills: official skill definitions, examples, and the marketplace. ⭐ **62k+**
+- [Sequenzy/skills](https://github.com/Sequenzy/skills) — Agent skills for operating Sequenzy email marketing and transactional/product email workflows from AI agents.
 
 - [anthropics/claude-code](https://github.com/anthropics/claude-code) — Agentic coding tool for terminal. Supports Skills, MCP, subagents, slash commands, and hooks. ⭐ **42k+**
 
