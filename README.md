@@ -427,6 +427,8 @@
 
 - [Claude Skills Explained — Lenny's Newsletter](https://www.lennysnewsletter.com/p/claude-skills-explained) — Claire Vo's product-manager perspective on Skills: building from scratch, practical uses for PRDs, changelogs, and follow-up emails. *(Oct 22, 2025)*
 
+- [andrej-karpathy-skills](https://github.com/swarmclawai/andrej-karpathy-skills) — Installable Karpathy-inspired coding-agent guidelines packaged for Claude Code, Codex, Cursor, Gemini, OpenCode, OpenClaw, AGENTS.md, and other agent surfaces.
+
 - [awesome-llm-skills](https://github.com/Prat011/awesome-llm-skills) — Community curated list of LLM and AI Agent Skills, resources, and tools for customizing AI workflows across Claude Code, Codex, Gemini CLI, and other platforms.
 
 ### MCP Tutorials
@@ -530,4 +532,3 @@ Contributions welcome! Please read the contribution guidelines first. All submit
       url={https://arxiv.org/abs/2602.12430}, 
 }
 ```
-
