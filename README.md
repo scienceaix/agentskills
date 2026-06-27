@@ -57,6 +57,7 @@
 
 ## Anthropic Skills — Core Ecosystem
 
+- [AI Delivery Spec](https://github.com/franklinxkk/ai-delivery-spec) - Product-side SDD framework: PRDs, IA skeletons, FRR 16-section records, AC-YAML, coding-agent delivery packages. 3 work paths, 4 domain modules.
 ### Official Announcements & Blog Posts
 
 - [Introducing Agent Skills](https://www.anthropic.com/news/skills) — Official product launch. Skills are folders of instructions, scripts, and resources that Claude loads dynamically. Available for Pro, Max, Team, and Enterprise users. Updated Dec 18, 2025 with organization-wide management and open standard announcement. *(Oct 2025, updated Dec 2025)*
