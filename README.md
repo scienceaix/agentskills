@@ -33,6 +33,7 @@
     - [Surveys \& Overviews](#surveys--overviews)
   - [Open-Source Projects \& Frameworks](#open-source-projects--frameworks)
     - [Agent Frameworks](#agent-frameworks)
+    - [Agent Memory \& Skill Infrastructure](#agent-memory--skill-infrastructure)
     - [Browser Automation \& Computer Use Agents](#browser-automation--computer-use-agents)
     - [Coding Agents](#coding-agents)
   - [Benchmarks \& Evaluation](#benchmarks--evaluation)
@@ -312,6 +313,12 @@
 | [OpenAI Agents SDK](https://github.com/openai/openai-agents-python) | Lightweight Python framework for multi-agent workflows with tracing, guardrails, and handoffs. Provider-agnostic. | ⭐ 9k+ |
 | [Google Agent Development Kit (ADK)](https://github.com/google/adk-python) | Open-source, code-first Python toolkit optimized for Gemini but model-agnostic. Supports A2A protocol. | ⭐ 5k+ |
 
+### Agent Memory & Skill Infrastructure
+
+| Project | Description | Stars |
+|---------|-------------|-------|
+| [Tree Ring Memory](https://github.com/TerminallyLazy/Tree-Ring-Memory) | Local-first memory lifecycle framework and portable skill for agent recall, evidence-linked learning, redaction, audit, and forgetting. Rust CLI with SQLite/FTS storage. | ⭐ 4 |
+
 ### Browser Automation & Computer Use Agents
 
 | Project | Description | Stars |
@@ -530,4 +537,3 @@ Contributions welcome! Please read the contribution guidelines first. All submit
       url={https://arxiv.org/abs/2602.12430}, 
 }
 ```
-
