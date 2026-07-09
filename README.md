@@ -322,6 +322,7 @@
 | [Steel Browser](https://github.com/steel-dev/steel-browser) | Open-source browser API for AI agents with full Puppeteer/Playwright/Selenium support, session management, and proxy support. | ⭐ 5k+ |
 | [agent-browser (Vercel Labs)](https://github.com/vercel-labs/agent-browser) | Headless browser automation CLI for AI agents. Fast Rust CLI. Works with Claude Code, Cursor, Gemini CLI, and Codex. | ⭐ 3k+ |
 
+| [linkedin-skills](https://github.com/Linked-API/linkedin-skills/tree/main/linkedin) | Fetch LinkedIn profiles, search people and companies, send messages, manage connections, create posts, react, comment, and run custom LinkedIn workflows from Claude Code, Codex, Cursor, and Windsurf. | — |
 ### Coding Agents
 
 | Project | Description | Stars |
