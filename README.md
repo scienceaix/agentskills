@@ -387,6 +387,8 @@
 
 - [Mind2Web / Online-Mind2Web](https://openreview.net/forum?id=kiYqbO3wqw) — 2,350 tasks across 137 real websites. Online-Mind2Web extends with WebJudge auto-evaluation reaching ~85% agreement with human judgment.
 
+- [ClawBench](https://github.com/reacher-z/ClawBench) — Live-website benchmark for browser agents covering 283 everyday tasks across 163 production sites, with isolated execution, submission interception, and auditable traces. ([Paper](https://arxiv.org/abs/2604.08523), [Project](https://claw-bench.com/))
+
 ### Leaderboards & Aggregators
 
 - [LLM-Stats Benchmark Tracker](https://llm-stats.com/benchmarks/category/tool_calling) — Aggregates model performance across tool calling and agent benchmarks.
@@ -530,4 +532,3 @@ Contributions welcome! Please read the contribution guidelines first. All submit
       url={https://arxiv.org/abs/2602.12430}, 
 }
 ```
-
