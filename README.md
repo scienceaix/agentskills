@@ -200,6 +200,7 @@
 - [When Single-Agent with Skills Replace Multi-Agent Systems and When They Fail](https://arxiv.org/abs/2601.04748) — Xiaoxiao Li. Investigates "compiling" multi-agent systems into single-agent skill libraries, finding substantial reductions in token usage and latency while maintaining accuracy. Discovers a **phase transition in skill selection accuracy** at a critical library size. *(Jan 2026)*
 
 - [Self-Distillation Enables Continual Learning](https://arxiv.org/abs/2601.19897) — Idan Shenfeld, Mehul Damani et al. Studies whether pretrained LLMs can acquire new, narrowly defined skills (science Q&A, tool use, medical reasoning) without degrading existing abilities, using self-distillation. *(Jan 2026)*
+- [OpenSkill: Open-World Self-Evolution for LLM Agents](https://arxiv.org/abs/2606.06741) — Zhiling Yan et al. Open-world self-evolution framework where an agent given only a task prompt acquires grounded knowledge and verification anchors from documentation, repositories, and the web, synthesizes them into transferable skills, and refines them against self-built virtual tasks without target-task supervision; skills and the self-built verifier transfer across models. *(Jun 2026)*
 
 ### Tool Use & Function Calling
 
