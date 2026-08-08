@@ -91,6 +91,8 @@
 
 - [anthropics/claude-quickstarts](https://github.com/anthropics/claude-quickstarts) — Quickstart projects including the computer-use-demo Docker container. ⭐ **10k+**
 
+- [Orkas-AI/Orkas-VideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio) — Agent-native video production toolkit with installable Codex and Claude Code skills, an MCP server, and editable `plan.json` timelines. ⭐ **521**
+
 - [anthropics/claude-agent-sdk-typescript](https://github.com/anthropics/claude-agent-sdk-typescript) — TypeScript Claude Agent SDK for building custom agents with MCP integration.
 
 - [anthropics/anthropic-sdk-python](https://github.com/anthropics/anthropic-sdk-python) — Official Python SDK for the Anthropic API.
@@ -530,4 +532,3 @@ Contributions welcome! Please read the contribution guidelines first. All submit
       url={https://arxiv.org/abs/2602.12430}, 
 }
 ```
-
