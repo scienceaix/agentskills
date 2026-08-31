@@ -83,7 +83,7 @@
 
 - [anthropics/claude-code](https://github.com/anthropics/claude-code) — Agentic coding tool for terminal. Supports Skills, MCP, subagents, slash commands, and hooks. ⭐ **42k+**
 
-- [Suede Creator Skills](https://github.com/JasonColapietro/suede-creator-skills) — MIT-licensed collection of 71 Claude Code and Codex skills covering multi-agent orchestration, Codex worker fleets, code review and ship gates, AI evaluation, product, design, and growth workflows.
+- [Suede Creator Skills](https://github.com/JasonColapietro/suede-creator-skills) — MIT-licensed collection of Claude Code and Codex skills covering multi-agent orchestration, Codex worker fleets, code review and ship gates, AI evaluation, product, design, and growth workflows.
 
 - [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks) — Recipes and notebooks including agent patterns, tool use examples, and reference implementations. ⭐ **28k+**
 
