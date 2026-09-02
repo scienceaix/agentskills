@@ -476,6 +476,7 @@
 - [awesome-llm-agents](https://github.com/kaushikb11/awesome-llm-agents) — Curated list of LLM agent frameworks with star counts and categorization. Updated Feb 2026.
 
 - [awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) — Collection of LLM apps built with RAG, AI Agents, Multi-agent Teams, MCP, and Voice Agents.
+- [BulkPublish social-media content skills](https://github.com/azeemkafridi/bulkpublish-api/tree/main/skills/social-media-content-skills) — Reusable skills for AI-agent social content planning, adaptation, review, scheduling, and publishing through BulkPublish.
 
 - [awesome-ai-agents (e2b-dev)](https://github.com/e2b-dev/awesome-ai-agents) — Comprehensive list of AI autonomous agents organized by coding, research, data, multi-agent.
 
@@ -530,4 +531,3 @@ Contributions welcome! Please read the contribution guidelines first. All submit
       url={https://arxiv.org/abs/2602.12430}, 
 }
 ```
-
