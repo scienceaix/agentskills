@@ -201,6 +201,8 @@
 
 - [Self-Distillation Enables Continual Learning](https://arxiv.org/abs/2601.19897) — Idan Shenfeld, Mehul Damani et al. Studies whether pretrained LLMs can acquire new, narrowly defined skills (science Q&A, tool use, medical reasoning) without degrading existing abilities, using self-distillation. *(Jan 2026)*
 
+- [Skill Transfer: Adapting Agent Skills from Strong to Weak Agents](https://github.com/Yifan-Lan/Skill-Transfer/blob/main/paper/SKill_Transfer_preprint.pdf) — Yifan Lan et al. A skill authored for a frontier model often fails on a smaller one because the strong model silently supplies procedural steps the skill leaves implicit. Proposes a training-free Diagnoser–Patcher pipeline that abstracts strong/weak agent trajectories into typed execution structures and localizes the gap with graph edit distance, raising weak-agent pass rate by 4.7–23.0pp across three benchmarks. *(Preprint, 2026)*
+
 ### Tool Use & Function Calling
 
 - [Tool Learning with Large Language Models: A Survey](https://arxiv.org/abs/2405.17935) — Changle Qu et al. Comprehensive survey organizing tool learning into four key stages: task planning, tool selection, tool calling, and response generation. Published in *Frontiers of Computer Science*, Vol. 19(8), 2025.
