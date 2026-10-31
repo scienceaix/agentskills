@@ -153,6 +153,8 @@
 
 - [microsoft/mcp](https://github.com/microsoft/mcp) — Catalog of official Microsoft MCP server implementations including Azure services, DevOps, M365 Agents Toolkit, Fabric, and Sentinel.
 
+- [signbee/mcp](https://github.com/signbee/mcp) — MCP server for [Signbee](https://signb.ee) enabling AI agents to send Markdown or PDF documents for two-party e-signing with SHA-256 tamper-evident certificates.
+
 ---
 
 ## Claude Tool Use & Computer Use
@@ -428,6 +430,8 @@
 - [Claude Skills Explained — Lenny's Newsletter](https://www.lennysnewsletter.com/p/claude-skills-explained) — Claire Vo's product-manager perspective on Skills: building from scratch, practical uses for PRDs, changelogs, and follow-up emails. *(Oct 22, 2025)*
 
 - [awesome-llm-skills](https://github.com/Prat011/awesome-llm-skills) — Community curated list of LLM and AI Agent Skills, resources, and tools for customizing AI workflows across Claude Code, Codex, Gemini CLI, and other platforms.
+
+- [signbee/skill](https://github.com/signbee/skill) — Portable Agent Skill (`SKILL.md`) for Claude Code, Cursor, Codex, and OpenClaw to draft and send NDAs, contracts, and agreements for two-party e-signing with SHA-256 certificates via a single API call.
 
 ### MCP Tutorials
 
