@@ -429,6 +429,8 @@
 
 - [awesome-llm-skills](https://github.com/Prat011/awesome-llm-skills) — Community curated list of LLM and AI Agent Skills, resources, and tools for customizing AI workflows across Claude Code, Codex, Gemini CLI, and other platforms.
 
+- [ponder](https://github.com/Quinnod345/ponder) - Coverage-gated multi-pass code review and deliberation loop for coding agents. Forces agents through an append-only ledger across 4 lenses and blocks task completion until successive passes converge with zero churn.
+
 ### MCP Tutorials
 
 - [Build an MCP Server — Official Guide](https://modelcontextprotocol.io/docs/develop/build-server) — Official quickstart tutorial: building a weather server with `get_alerts` and `get_forecast` tools, connecting to Claude for Desktop.
