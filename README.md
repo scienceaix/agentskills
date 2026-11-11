@@ -215,6 +215,8 @@
 
 - [Function Calling in LLMs: Industrial Practices, Challenges, and Future Directions](https://dl.acm.org/doi/10.1145/3788284) — Comprehensive ACM survey covering industrial practices in LLM function calling, including training approaches, evaluation frameworks, and future directions. *ACM Computing Surveys, 2025.*
 
+- [Teaching LLMs to Learn Tool Trialing and Execution through Environment Interaction](https://arxiv.org/abs/2601.12762) — Xingjie Gao et al. Introduces ToolMaster, which learns to explore tools and self-correct through environment interaction with supervised fine-tuning followed by GRPO. *(Jan 2026)*
+
 ### Computer Use & GUI Agents
 
 - [UI-TARS: Pioneering Automated GUI Interaction with Native Agents](https://arxiv.org/abs/2501.12326) — Yujia Qin et al. (ByteDance/Tsinghua). End-to-end native GUI agent achieving **SOTA on 10+ GUI benchmarks** (OSWorld 24.6, AndroidWorld 46.6) through enhanced perception, unified action modeling, and System-2 reasoning. *(Jan 2025)*
@@ -350,6 +352,8 @@
 - [AgentBench](https://github.com/THUDM/AgentBench) — Systematic benchmark evaluating LLMs as agents across 8 environments (OS, database, knowledge graph, card game, web shopping, web browsing). ([Paper](https://arxiv.org/abs/2308.03688))
 
 - [DABstep: Data Agent Benchmark](https://huggingface.co/blog/dabstep) — By Adyen and Hugging Face, 450+ real-world data analysis tasks. Best reasoning agents achieve only **16% accuracy**. *(2025)*
+
+- [EC²-Bench (EC2-Bench)](https://arxiv.org/abs/2610.17816) — 128 executable digital-workspace tasks, including 100 with privacy annotations, for jointly evaluating task performance, cloud cost, and privacy exposure in edge-cloud agent execution. ([GitHub](https://github.com/OpenBMB/EC2-Bench)) *(2026)*
 
 ### Tool Use & Function Calling Benchmarks
 
