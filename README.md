@@ -147,6 +147,8 @@
 
 ### Community MCP Resources
 
+- [GoVisit Tools](https://govisit.ai/en/docs/developers/mcp/overview) — Hosted Streamable HTTP MCP server for reading GoVisit’s published travel information, with no GoVisit API key required for public reads. Connect at [`https://govisit.ai/mcp`](https://govisit.ai/mcp). The companion [Agent Skills toolkit](https://github.com/inhotel-io/govisit-toolkit) provides 22 portable skills and integration resources.
+
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) — Comprehensive curated collection of MCP servers: production-ready and experimental, covering file access, databases, API integrations, and more. ⭐ **15k+**
 
 - [wong2/awesome-mcp-servers](https://github.com/wong2/awesome-mcp-servers) — Curated list of MCP servers with official integrations, reference servers, and community servers by category. ⭐ **10k+**
