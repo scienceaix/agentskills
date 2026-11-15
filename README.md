@@ -153,6 +153,8 @@
 
 - [microsoft/mcp](https://github.com/microsoft/mcp) — Catalog of official Microsoft MCP server implementations including Azure services, DevOps, M365 Agents Toolkit, Fabric, and Sentinel.
 
+- [No Stairs Please MCP](https://nostairsplease.com/mcp) — Remote MCP server for [No Stairs Please](https://nostairsplease.com/), enabling AI agents to search small live-music venues, capacities, and booking contacts across all 50 US states, DC, and BC.
+
 ---
 
 ## Claude Tool Use & Computer Use
