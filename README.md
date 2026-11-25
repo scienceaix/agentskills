@@ -153,6 +153,8 @@
 
 - [microsoft/mcp](https://github.com/microsoft/mcp) — Catalog of official Microsoft MCP server implementations including Azure services, DevOps, M365 Agents Toolkit, Fabric, and Sentinel.
 
+- [GoVisit Tools (hosted)](https://govisit.ai/en/docs/developers/mcp/overview) — Remote Streamable HTTP MCP server for read-only search and retrieval of GoVisit travel content. Endpoint: [`https://govisit.ai/mcp`](https://govisit.ai/mcp). See the [Agent Skills overview](https://govisit.ai/en/docs/developers/agent-skills/overview) for the companion toolkit and installation guidance.
+
 ---
 
 ## Claude Tool Use & Computer Use
